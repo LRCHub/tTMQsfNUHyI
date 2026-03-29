@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "私は猫の目",
+  "base_artist": "Sheena Ringo",
+  "createdAt": "2026-03-29T15:29:21.819017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私は猫の目",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/01_私は猫の目_Sheena_Ringo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私は猫の目",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/02_私は猫の目_椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私は猫の目 album ver.",
+      "artist": "椎名林檎",
+      "has_synced": true,
+      "path": "select/03_私は猫の目_album_ver._椎名林檎.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私は猫の目 - album ver.",
+      "artist": "Sheena Ringo",
+      "has_synced": true,
+      "path": "select/04_私は猫の目_-_album_ver._Sheena_Ringo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は猫の目",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_01_私は猫の目_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "私は猫の目",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_02_私は猫の目_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "私は猫の目",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_03_私は猫の目_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "私は猫の目",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_04_私は猫の目_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "私は猫の目",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_05_私は猫の目_椎名_林檎.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "私は猫の目 album ver.",
+      "artist": "椎名 林檎",
+      "has_synced": false,
+      "path": "select/pl_06_私は猫の目_album_ver._椎名_林檎.txt"
+    }
+  ]
+}
